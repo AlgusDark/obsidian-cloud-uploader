@@ -1,0 +1,29 @@
+.cloud-provider-setting-item {
+  padding: 0.75em 0;
+  border-top: 1px solid var(--background-modifier-border);
+}
+
+.cloud-provider-setting-item:empty {
+  padding: 0;
+  border: 0;
+}
+
+.cloud-full-width {
+  width: 100%;
+}
+
+.cloud-flex-full {
+  flex: 1;
+}
+
+.cloud-direction-column {
+  flex-direction: column;
+}
+
+.cloud-align-start {
+  align-items: flex-start;
+}
+
+.cloud-stack > * + * {
+  margin-block-start: 1.5rem;
+}

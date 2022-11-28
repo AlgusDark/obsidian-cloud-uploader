@@ -1,0 +1,10 @@
+{
+  "id": "cloud-uploader",
+  "name": "Cloud Uploader",
+  "version": "0.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "Upload drop/paste images directly to the cloud",
+  "author": "Algus Dark",
+  "authorUrl": "https://algus.ninja",
+  "isDesktopOnly": true
+}
